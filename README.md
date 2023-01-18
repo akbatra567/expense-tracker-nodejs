@@ -31,5 +31,6 @@ id Integer primary key
 date DATE
 description TEXT
 category TEXT
+amount DOUBLE(10, 2)
 
 ```
